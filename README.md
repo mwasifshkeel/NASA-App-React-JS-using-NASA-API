@@ -22,11 +22,11 @@ The NASA Astronomy Picture of the Day (APOD) React Website showcases daily astro
 
 1. Clone the project repository from the source, or download it as a ZIP archive and extract it to your local machine.
     ```bash
-    git clone https://github.com/yourusername/nasa-apod-react-website.git
+    git clone https://github.com/mwasifshkeel/NASA-App-React-JS-using-NASA-API.git
     ```
 2. Navigate to the project directory.
     ```bash
-    cd nasa-apod-react-website
+    cd NASA-App-React-JS-using-NASA-API
     ```
 3. Install the necessary dependencies using npm.
     ```bash
@@ -43,7 +43,7 @@ The NASA Astronomy Picture of the Day (APOD) React Website showcases daily astro
     ```bash
     npm start
     ```
-2. Open your browser and navigate to `http://localhost:3000` to view the application.
+2. Open your browser and navigate to `http://localhost:[PORT IN TERMINAL]` to view the application.
 
 ## Key Features and Functionalities Implemented
 
